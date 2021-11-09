@@ -5,6 +5,7 @@
 1, 作業
 2, git add ファイル名
 3, git commit -m "コミットメッセージ"
+4, git push origin ブランチ名
 
 補足
 git status あどできてるかの確認
